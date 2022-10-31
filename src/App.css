@@ -1,0 +1,23 @@
+.navbar-brand
+{
+  font-size:2rem;
+}
+span
+{
+  color: aqua;
+}
+span:hover
+{
+  color:darkskyblue;
+}
+body
+{
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.img-fluid
+{
+  height:70%;
+  width:150%;
+
+}
